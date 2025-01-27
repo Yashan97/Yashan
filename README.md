@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashan Anupama</h1>
 <h3 align="center"> I am  from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashan&label=Profile%20views&color=0e75b6&style=flat" alt="yashan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashan&label=Profile%20views&color=0e75b6&style=flat" alt="yashan" /> </p>
 
 - 🌱 I’m currently learning **JAVA , OOP ,DBMS**
 
